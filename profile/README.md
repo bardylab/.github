@@ -1,4 +1,4 @@
-# <center>&nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/CedricBardyLab)</center>
+# <center>&nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/CedricBardyLab)</center>
 
 ## 🧠 Bardy Lab
 
